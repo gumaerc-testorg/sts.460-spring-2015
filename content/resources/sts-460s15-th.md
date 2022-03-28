@@ -15,6 +15,7 @@ image_metadata:
     switchboard.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: Operator Switchboard (thumbnail)
 uid: 0b3012da-1806-9c54-198b-e54d3a2a6b8d
