@@ -14,10 +14,10 @@ image_metadata:
   image-alt: A photograph of a woman plugging a cable into a slot on an old telephone
     switchboard.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Operator Switchboard (thumbnail)
 uid: 0b3012da-1806-9c54-198b-e54d3a2a6b8d
 ---
 Telephones and their technology (such as the operator switchboard shown here) are one of the information and communication technologies discussed in the course. Image courtesy of Ben and Debs Blench on Flickr. CC BY-NC-SA 2.0.
-
