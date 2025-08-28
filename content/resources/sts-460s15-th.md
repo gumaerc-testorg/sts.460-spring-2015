@@ -3,7 +3,7 @@ content_type: resource
 description: Telephones and their technology (such as the operator switchboard shown
   here) are one of the information and communication technologies discussed in the
   course. Image courtesy of Ben and Debs Blench on Flickr. CC BY-NC-SA 2.0.
-file: /courses/sts-460-histories-of-information-communication-and-computing-technologies-spring-2015/0b3012da18069c54198be54d3a2a6b8d_sts-460s15-th.jpg
+file: /ol-ocw-studio-app/courses/sts-460-histories-of-information-communication-and-computing-technologies-spring-2015/0b3012da18069c54198be54d3a2a6b8d_sts-460s15-th.jpg
 file_size: 11034
 file_type: image/jpeg
 image_metadata:
